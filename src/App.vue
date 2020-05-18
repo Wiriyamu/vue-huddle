@@ -1,14 +1,16 @@
 <template>
   <div id="app">
     <Header />
+    <Statistics />
   </div>
 </template>
 
 <script>
 import Header from '@/components/Header'
+import Statistics from '@/components/Statistics'
 export default {
   name: 'App',
-  components: { Header }
+  components: { Header, Statistics }
 }
 </script>
 
