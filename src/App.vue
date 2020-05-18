@@ -2,15 +2,17 @@
   <div id="app">
     <Header />
     <Statistics />
+    <Grow />
   </div>
 </template>
 
 <script>
 import Header from '@/components/Header'
 import Statistics from '@/components/Statistics'
+import Grow from '@/components/Grow'
 export default {
   name: 'App',
-  components: { Header, Statistics }
+  components: { Header, Statistics, Grow }
 }
 </script>
 
