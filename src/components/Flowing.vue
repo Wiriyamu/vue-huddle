@@ -4,7 +4,7 @@
       <figure class="flow__img">
         <img
           src="../assets/illustration-flowing-conversation.svg"
-          alt="grow together"
+          alt="flowing conversations"
         />
       </figure>
       <div class="flow__texts">
