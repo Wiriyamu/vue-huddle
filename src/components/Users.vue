@@ -2,11 +2,11 @@
   <section class="users">
     <div class="users__container">
       <div class="users__texts">
-        <h1 class="users__title">Grow Together</h1>
+        <h1 class="users__title">Your Users</h1>
         <p class="users__paragraphy">
-          Generate meaningful discussions with your audience and build a strong,
-          loyal community. Think of the insightful conversations you miss out on
-          with a feedback form.
+          It takes no time at all to integrate Huddle with your app's
+          authetication solution. This means, once signed in to your app, your
+          users can stat chatting immediately.
         </p>
       </div>
       <figure class="users__img">
