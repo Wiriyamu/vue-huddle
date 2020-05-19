@@ -4,6 +4,7 @@
     <Statistics />
     <Grow />
     <Flowing />
+    <Users />
   </div>
 </template>
 
@@ -12,9 +13,10 @@ import Header from '@/components/Header'
 import Statistics from '@/components/Statistics'
 import Grow from '@/components/Grow'
 import Flowing from '@/components/Flowing'
+import Users from '@/components/Users'
 export default {
   name: 'App',
-  components: { Header, Statistics, Grow, Flowing }
+  components: { Header, Statistics, Grow, Flowing, Users }
 }
 </script>
 
