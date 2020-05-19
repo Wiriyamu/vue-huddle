@@ -6,6 +6,7 @@
     <Flowing />
     <Users />
     <Comminity />
+    <Footer />
   </div>
 </template>
 
@@ -16,9 +17,10 @@ import Grow from '@/components/Grow'
 import Flowing from '@/components/Flowing'
 import Users from '@/components/Users'
 import Comminity from '@/components/Comminity'
+import Footer from '@/components/Footer'
 export default {
   name: 'App',
-  components: { Header, Statistics, Grow, Flowing, Users, Comminity }
+  components: { Header, Statistics, Grow, Flowing, Users, Comminity, Footer }
 }
 </script>
 
