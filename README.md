@@ -1,24 +1,41 @@
-# vue-huddle
+<p align="center">
+    <img src="./src/assets/logo.svg"
+    width="500px" alt="YOUR_PROJECT_NAME" width="120"/>
+  </p>
+
+<br>
+
+## Huddle - Landing Page
+
+The challenge is to create a landing page from the designs provided.
+
+<hr />
+
+## Features
+This application has all the latest tools and practices in web and mobile development!
+
+- **Html** — Hypertext markup language
+- **Css3** — Cascading Style Sheets
+- **Sass** — CSS with superpowers
+- **Vue.js** — The Progressive JavaScript Framework
+
+<br>
+
+# Test the project
 
 ## Project setup
+
+#### Clone the repository
+
+## First Step: Run the command
 ```
-yarn install
+yarn
 ```
 
-### Compiles and hot-reloads for development
+## Second Step: Run the command
 ```
 yarn serve
 ```
+<br>
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Made by [Willian Silva](https://github.com/Wiriyamu)
